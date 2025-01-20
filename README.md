@@ -26,6 +26,6 @@ _**少女在成为废墟的世界醒来，为了揭开这个世界的谜团和�
 
 
 ### 声明
-> Copyright © 2023-2024 DimenRefactor Studios All Rights Reserved
+> Copyright © 2023-2025 DimenRefactor Studios All Rights Reserved
 > 
-> 版权所有 © 2023-2024 维度重构工作室 保留所有权利
+> 版权所有 © 2023-2025 维度重构工作室 保留所有权利
